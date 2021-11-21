@@ -19,6 +19,7 @@ main <- function(){
   print(opt)
   print(typeof(opt))
   print(opt$arg4)
+  print(opt$arg3)
 }
 
 main()
